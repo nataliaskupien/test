@@ -5,3 +5,5 @@ main
 
 branch A
 
+branch B
+
