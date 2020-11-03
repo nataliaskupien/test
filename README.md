@@ -1,9 +1,7 @@
 # test
 
 
-main 
-
-branch A
+branch C
 
 branch B
 
